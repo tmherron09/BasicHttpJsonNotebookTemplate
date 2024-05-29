@@ -1,0 +1,58 @@
+[
+    {
+        "post code": "63119",
+        "country": "United States",
+        "country abbreviation": "US",
+        "places": [
+            {
+                "place name": "Saint Louis",
+                "longitude": "-90.3481",
+                "state": "Missouri",
+                "state abbreviation": "MO",
+                "latitude": "38.5893"
+            },
+            {
+                "place name": "Wenzhou",
+                "longitude": "-90.3481",
+                "state": "Zhejiang",
+                "state abbreviation": "ZH",
+                "latitude": "38.5893"
+            },
+            {
+                "place name": "Chicago",
+                "longitude": "-90.3481",
+                "state": "Illinoise",
+                "state abbreviation": "IL",
+                "latitude": "38.5893"
+            }
+        ]
+    },
+    {
+        "post code": "63122",
+        "country": "United States",
+        "country abbreviation": "US",
+        "places": [
+            {
+                "place name": "Saint Louis",
+                "longitude": "-90.4256",
+                "state": "Missouri",
+                "state abbreviation": "MO",
+                "latitude": "38.5781"
+            }
+        ]
+    },
+    {
+        "post code": "63127",
+        "country": "United States",
+        "country abbreviation": "US",
+        "places": [
+            {
+                "place name": "Saint Louis",
+                "longitude": "-90.407",
+                "state": "Missouri",
+                "state abbreviation": "MO",
+                "latitude": "38.5355"
+            }
+        ]
+    }
+]
